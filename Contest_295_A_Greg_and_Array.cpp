@@ -13,7 +13,7 @@ using namespace std;
 #define INF (1LL << 60)
 #define inf (1 << 30)
 
-
+// concepts: difference array n prefix sum
 
 void solve(void) {
     int N, M, K; cin >> N >> M >> K;
